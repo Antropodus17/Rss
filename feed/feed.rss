@@ -1,15 +1,15 @@
 <rss version="2.0">
     <channel>
-        <title>Prueba de rss</title>
-        <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <title>VideoGames</title>
+        <description>2 articles of Videogames</description>
+        <link>https://antropodus17.github.io/Rss/</link>
+        <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+        <managingEditor>Sergioe@example.com (Sergio)</managingEditor>
         <item>
-            <title>Test page</title>
-            <link>http://example.org/test.html</link>
-            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <title>League of legends</title>
+            <link>https://antropodus17.github.io/Rss/</link>
+            <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+            <description>Description of League of legends.</description>
         </item>
     </channel>
 </rss>
